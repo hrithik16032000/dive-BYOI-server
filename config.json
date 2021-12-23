@@ -1,0 +1,10 @@
+{
+    "spotify": {
+        "url": "https://accounts.spotify.com",
+        "api": "https://api.spotify.com",
+        "scopes": "user-read-private user-read-email user-read-recently-played"
+    },
+    "db": {
+        "uri": "mongodb+srv://tarun:7UhO6Zt9MLKANZ5E@testdevenv.sjzaf.mongodb.net/cwhawks?retryWrites=true&w=majority"
+    }
+}
